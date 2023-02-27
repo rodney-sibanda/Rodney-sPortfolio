@@ -1,4 +1,3 @@
-# Rodney's Portfolio
 
 
 # [Project #1: Analysiis on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
