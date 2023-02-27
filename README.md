@@ -1,6 +1,6 @@
 
 
-# [Project #1: Analysiis on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
+# [Project #1: Analysis on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
 
 - Examination of a sample of 1,000 birth records from North Carolina to understand the relationship between maternal habits and practices and birth outcomes.
 
