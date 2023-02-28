@@ -25,7 +25,7 @@
 
 - Language used: R
 
-# [Project #3: Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
+# [Project #4: Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
 - Analysis of the Adidas sales trends between 2020 and 2021, highlighting the top-selling products and retailers. 
 
