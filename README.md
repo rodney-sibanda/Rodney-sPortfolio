@@ -6,6 +6,9 @@
 
 - Language used: R
 
+![image](https://user-images.githubusercontent.com/126027138/221910258-c3297204-7c57-471e-ac18-e2bee5e85ac1.png)
+
+
 
 # [Project #2: Analysis and Visualization and Vion Gun Violence in the United States](https://github.com/rodney-sibanda/US-Gun-Violence-Data-Analysis-Using-R)
 
