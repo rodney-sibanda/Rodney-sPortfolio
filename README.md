@@ -6,7 +6,8 @@
 
 - Language used: R
 
-![image](https://user-images.githubusercontent.com/126027138/221910258-c3297204-7c57-471e-ac18-e2bee5e85ac1.png)
+
+![image](https://user-images.githubusercontent.com/126027138/221910683-82c69363-0ea7-47d5-a5c9-5ec72715d0b6.png)
 
 
 
