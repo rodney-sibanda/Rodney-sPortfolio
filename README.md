@@ -1,6 +1,5 @@
+# [Project #1: Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
-
-[Project #1: Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
 ![portfolio pic ](https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/9218029b-7ff5-4f74-8294-95346b8a616a)
 
