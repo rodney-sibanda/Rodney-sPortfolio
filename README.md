@@ -39,8 +39,6 @@ Highlights:
 
 - **_Enhanced Data Presentation:_** Utilized advanced data visualization techniques to present complex data in an easily digestible format, expediting the decision-making process for executives.
 
-- **_Glossary and Additional Reporting:_** Introduced a glossary page and an 'Additional Report' section to provide extra contextual information and additional data points that may be of interest.
-
 - **_Stakeholder Communication:_** Streamlined communication by incorporating all the necessary metrics and insights into one unified dashboard, making it easier for the resource analyst and executives to be on the same page.
 
 - **_Time and Resource Efficiency:_** Reduced the time spent on monthly reporting tasks, allowing the resource analyst to focus on more strategic initiatives.
