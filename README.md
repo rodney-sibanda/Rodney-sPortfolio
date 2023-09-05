@@ -19,7 +19,35 @@ Highlights:
 - Facilitated stakeholder engagement by visually demonstrating the allocation of resources to various programs.
 - Contributed to the Drop-In Centre's mission by enhancing accountability and resource utilization.
 
-# [Project #2: Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
+# [Project #2: Full-Time Equivalent (FTE) Dashboard for Resource Management](https://github.com/rodney-sibanda/FTE_Dashbaord)
+
+<img width="1680" alt="Screenshot 2023-08-31 at 6 14 25 PM" src="https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/fea971a7-0cd3-421b-a323-148b8050e365">
+
+
+Description: Spearheaded the creation of an all-encompassing FTE Dashboard to automate and optimize ATB's monthly resource management reporting. The multi-page dashboard compiles, visualizes, and summarizes key data points that were previously entered manually, facilitating quicker and more insightful decision-making for executives.
+
+Skills Used: Data Automation, Data Visualization, Dashboard Design, Business Analysis, Stakeholder Communication
+
+Tools: Google Docs, Google Sheets, Google Looker Studio
+
+Highlights:
+
+- **_Automated Resource Management Reporting:_** Eliminated the need for manual entry by automating the process through Google Sheets and Google Looker Studio.
+
+- **_Multi-Page Dashboard Design:_** Developed a 6-page dashboard including Overview, Resource Management Report, Movement and Role Breakdown, Exits and Leaves, Job Posting Report, and Turnover.
+
+- **_Enhanced Data Presentation:_** Utilized advanced data visualization techniques to present complex data in an easily digestible format, expediting the decision-making process for executives.
+
+- **_Glossary and Additional Reporting:_** Introduced a glossary page and an 'Additional Report' section to provide extra contextual information and additional data points that may be of interest.
+
+- **_Stakeholder Communication:_** Streamlined communication by incorporating all the necessary metrics and insights into one unified dashboard, making it easier for the resource analyst and executives to be on the same page.
+
+- **_Time and Resource Efficiency:_** Reduced the time spent on monthly reporting tasks, allowing the resource analyst to focus on more strategic initiatives.
+
+- **_Data-Driven Decision-Making:_** Empowered executives with accurate, real-time insights into resource allocation, turnover rates, and other key performance indicators
+
+
+# [Project #3: Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
 - Analysis of the Adidas sales trends between 2020 and 2021, highlighting the top-selling products and retailers. 
 
@@ -29,7 +57,7 @@ Highlights:
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
-# [Project #3: Determining whether diet regiman results in peanut allergy](https://github.com/rodney-sibanda/Analysis-and-Visualization-of-Peanut-Allergy-Experiment-) 
+# [Project #4: Determining whether diet regiman results in peanut allergy](https://github.com/rodney-sibanda/Analysis-and-Visualization-of-Peanut-Allergy-Experiment-) 
 
 - Through this analysis and visualization I investigate whether there is a correlation between a child's diet regiman and a peanut allergy. 
 
@@ -41,13 +69,13 @@ Highlights:
 
 
 
-# [Project #4: Analysis and Visualization and Vion Gun Violence in the United States](https://github.com/rodney-sibanda/US-Gun-Violence-Data-Analysis-Using-R)
+# [Project #5: Analysis and Visualization and Vion Gun Violence in the United States](https://github.com/rodney-sibanda/US-Gun-Violence-Data-Analysis-Using-R)
 
 - Analysis of the relationship between gun ownership and gun violence in the United States by examining the correlation between states' gun ownership levels and gun-related deaths.
 
 - Language used: R
 
-  # [Project #5: Analysis and Visualization on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
+  # [Project #6: Analysis and Visualization on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
 
 - Examination of a sample of 1,000 birth records from North Carolina to understand the relationship between maternal habits and practices and birth outcomes.
 
