@@ -24,6 +24,7 @@ Highlights:
 <img width="1680" alt="Screenshot 2023-08-31 at 6 14 25 PM" src="https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/0b826742-f349-4642-984c-80aa24bfe631">
 
 
+
 Description: Spearheaded the creation of an all-encompassing FTE Dashboard to automate and optimize ATB's monthly resource management reporting. The multi-page dashboard compiles, visualizes, and summarizes key data points that were previously entered manually, facilitating quicker and more insightful decision-making for executives.
 
 Skills Used: Data Automation, Data Visualization, Dashboard Design, Business Analysis, Stakeholder Communication
