@@ -1,6 +1,6 @@
 # Rodney's Portfolio
 
-Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports** and **Data Visualizations**.
+Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports** and **Dashboards**.
 
 
 ## Reports
