@@ -1,87 +1,90 @@
-# [Project #1: Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
+# Rodney's Portfolio
 
+Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports** and **Data Visualizations**.
+
+
+## Reports
+
+### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
+**Description:** Analyzed climate change, wildfire activity, air quality, and public health in Alberta using SQL and Python. Created visualizations to demonstrate how weather and air pollutants impact wildfire severity and health outcomes.
+
+**Skills Used:** Python, SQL, Data Integration, Data Visualization
+
+**Highlights:**
+
+- Combined and cleaned datasets to create a comprehensive view of environmental and health factors.
+
+- Applied SQL queries to extract insights and merge wildfire, weather, and pollutant data.
+
+### [Car Fuel Efficiency Analysis](https://github.com/rodney-sibanda/Car-Fuel-Efficiency-Analysis/tree/main)
+**Description:** Examined relationships between vehicle attributes and fuel efficiency (MPG) using a multi-linear regression model. Provided insights into how vehicle features like engine size and drivetrain type influence performance and sustainability.
+
+**Skills Used:**  R, Regression Analysis, ggplot2 Dataset
+
+**Highlights:**
+
+- Built predictive models to analyze trade-offs between vehicle performance and fuel efficiency.
+
+- Delivered actionable insights for consumer decision-making
+
+### [Forest Fire Dynamics in Alberta]([https://github.com/rodney-sibanda/Wildfire-Dynamics-Alberta)
+
+**Description:** Analyzed wildfire dynamics in Alberta (2006–2023) to uncover patterns and insights related to fuel types, weather conditions, fire causes, and frequency. Generated visualizations to aid emergency responses and mitigation strategies.  
+
+**Skills Used:** Python Programming, Data Visualization, Statistical Analysis  
+
+**Highlights:**
+- Addressed missing values through imputation and column merging.
+
+- Explored the relationship between temperature, humidity, and fire size using regression and visualizations.
+
+- Answered guiding questions related to fire behaviour, frequency, and causes.
+
+## Dashboards
+
+### [Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
 ![portfolio pic ](https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/9218029b-7ff5-4f74-8294-95346b8a616a)
 
+**Description:** Developed an innovative dashboard to streamline inventory management and optimize resource allocation at the Calgary Drop-In Centre's Donation Centre. The dashboard offers real-time insights into incoming and outgoing donations, inventory trends, and distribution metrics.
 
-Description: Developed an innovative dashboard to streamline inventory management and optimize resource allocation at the Calgary Drop-In Centre's Donation Centre. The dashboard offers real-time insights into incoming and outgoing donations, inventory trends, and distribution metrics.
+**Skills Used:**  Database Management, Data Visualization, Forecasting, User Interface Design 
+**Tools:** Tableau
 
-Skills Used: Database Management, Data Visualization, Forecasting, User Interface Design
+**Highlights:**
 
-Tools: Tableau
+- Real-time tracking of inventory trends and metrics.
 
-Highlights:
+-bImproved resource allocation with forecasting tools.
 
-- Implemented a robust database management system to track donations and optimize distribution.
-- Created interactive visualizations that offer a comprehensive overview of inventory status and movement.
-- Designed forecasting features to predict stock shortages and future inventory positions.
-- Empowered decision-making through deep insights into individual items' inflow, outflow, and on-hand quantities.
-- Facilitated stakeholder engagement by visually demonstrating the allocation of resources to various programs.
-- Contributed to the Drop-In Centre's mission by enhancing accountability and resource utilization.
-
-# [Project #2: Full-Time Equivalent (FTE) Dashboard for Resource Management](https://github.com/rodney-sibanda/FTE_Dashbaord)
+### [Full-Time Equivalent (FTE) Dashboard for Resource Management](https://github.com/rodney-sibanda/FTE_Dashbaord)
 
 <img width="1680" alt="Screenshot 2023-08-31 at 6 14 25 PM" src="https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/0b826742-f349-4642-984c-80aa24bfe631">
 
 
+**Description:** Automated ATB’s monthly reporting with a 6-page dashboard for resource management.
 
-Description: Spearheaded the creation of an all-encompassing FTE Dashboard to automate and optimize ATB's monthly resource management reporting. The multi-page dashboard compiles, visualizes, and summarizes key data points that were previously entered manually, facilitating quicker and more insightful decision-making for executives.
+**Skills Used:** Data Automation, Data Visualization, Dashboard Design, Business Analysis, Stakeholder Communication
 
-Skills Used: Data Automation, Data Visualization, Dashboard Design, Business Analysis, Stakeholder Communication
+**Tools:** Google Docs, Google Sheets, Google Looker Studio
 
-Tools: Google Docs, Google Sheets, Google Looker Studio
+**Highlights:**
 
-Highlights:
+- Eliminated manual data entry with automation.
 
-- **_Automated Resource Management Reporting:_** Eliminated the need for manual entry by automating the process through Google Sheets and Google Looker Studio.
-
-- **_Multi-Page Dashboard Design:_** Developed a 6-page dashboard including Overview, Resource Management Report, Movement and Role Breakdown, Exits and Leaves, Job Posting Report, and Turnover.
-
-- **_Enhanced Data Presentation:_** Utilized advanced data visualization techniques to present complex data in an easily digestible format, expediting the decision-making process for executives.
-
-- **_Stakeholder Communication:_** Streamlined communication by incorporating all the necessary metrics and insights into one unified dashboard, making it easier for the resource analyst and executives to be on the same page.
-
-- **_Time and Resource Efficiency:_** Reduced the time spent on monthly reporting tasks, allowing the resource analyst to focus on more strategic initiatives.
-
-- **_Data-Driven Decision-Making:_** Empowered executives with accurate, real-time insights into resource allocation, turnover rates, and other key performance indicators
+- Enabled data-driven decision-making for executives.
 
 
-# [Project #3: Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
+### [Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
-- Analysis of the Adidas sales trends between 2020 and 2021, highlighting the top-selling products and retailers. 
+**Description:** Analyzed sales trends, top-selling products, and retailers for Adidas using Excel. 
 
-- Skills used: Pivot Tables, Financial analysis
+**Skills used:** Pivot Tables, Financial analysis
 
-- Excel Spreadsheet and Dashboard 
+**Tools:** Excel Spreadsheet and Dashboard 
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
-# [Project #4: Determining whether diet regiman results in peanut allergy](https://github.com/rodney-sibanda/Analysis-and-Visualization-of-Peanut-Allergy-Experiment-) 
-
-- Through this analysis and visualization I investigate whether there is a correlation between a child's diet regiman and a peanut allergy. 
-
-- Language used: R
-
-- Skills used: Independance Testing, Relative Risk Evaluation, Visualization 
-
-![image](https://user-images.githubusercontent.com/126027138/221918638-e97de117-85e6-458c-859d-a1914f9cff74.png)
 
 
-
-# [Project #5: Analysis and Visualization and Vion Gun Violence in the United States](https://github.com/rodney-sibanda/US-Gun-Violence-Data-Analysis-Using-R)
-
-- Analysis of the relationship between gun ownership and gun violence in the United States by examining the correlation between states' gun ownership levels and gun-related deaths.
-
-- Language used: R
-
-  # [Project #6: Analysis and Visualization on Births in North Carolina](https://github.com/rodney-sibanda/North-Carolina-Births-Analysis-Using-R)
-
-- Examination of a sample of 1,000 birth records from North Carolina to understand the relationship between maternal habits and practices and birth outcomes.
-
-- Skills Used: Linear Regression Analysis, Linear modeling, Residual Analysis, Visualization  
-
-- Language used: R
-
-
-![image](https://user-images.githubusercontent.com/126027138/221910683-82c69363-0ea7-47d5-a5c9-5ec72715d0b6.png)
 
