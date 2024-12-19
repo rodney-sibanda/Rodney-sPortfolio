@@ -49,6 +49,7 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 **Description:** Developed an innovative dashboard to streamline inventory management and optimize resource allocation at the Calgary Drop-In Centre's Donation Centre. The dashboard offers real-time insights into incoming and outgoing donations, inventory trends, and distribution metrics.
 
 **Skills Used:**  Database Management, Data Visualization, Forecasting, User Interface Design 
+
 **Tools:** Tableau
 
 **Highlights:**
