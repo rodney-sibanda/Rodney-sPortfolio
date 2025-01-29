@@ -87,7 +87,7 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 ## Webscraping Tools
 
-### [Indeed Webscraping Tool] (https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)
+### [Indeed Webscraping Tool](https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)
 
 
 **Description:** Developed a Selenium-based web scraper for the GNWT Bureau of Statistics to collect real-time job market data from Indeed. This tool provides a more accurate snapshot of employment trends in the Northwest Territories, replacing outdated estimates from Statistics Canada.
@@ -102,7 +102,7 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 **Skills Used:** Python, Selenium, Web Scraping, Data Automation
 
-### [Sephora Price Tracking Tool] (https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)](https://github.com/rodney-sibanda/Sephora-Price-Tracking-Tool/tree/main)
+### [Sephora Price Tracking Tool](https://github.com/rodney-sibanda/Sephora-Price-Tracking-Tool/tree/main)
 
 **Description:**
 A Python-based web scraper that tracks the daily price of a specific Sephora product and logs the data into a CSV file. This tool allows users to monitor price changes over time, making it useful for price trend analysis and potential savings on beauty products.
