@@ -1,5 +1,5 @@
 
-Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports** and **Dashboards**.
+Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports**, **Dashboards**, and **Webscraping Tools**.
 
 
 ## Reports
@@ -85,6 +85,36 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
+## Webscraping Tools
+
+### [Indeed Webscraping Tool]([https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel](https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main))
 
 
+**Description:** Developed a Selenium-based web scraper for the GNWT Bureau of Statistics to collect real-time job market data from Indeed. This tool provides a more accurate snapshot of employment trends in the Northwest Territories, replacing outdated estimates from Statistics Canada.
 
+**Features:**
+
+- **Location-Specific Scraping:** Retrieves job postings for the Northwest Territories.
+- **Dynamic Filters:** Filters jobs by date and sorts listings by the most recent updates.
+- **Comprehensive Data Extraction:** Captures job title, company name, location, salary, employment type, and date posted.
+- **Data Logging:** Saves extracted job data into an Excel file for further analysis.
+- **Automated Pagination:** Scrapes multiple pages efficiently.
+
+**Skills Used:** Python, Selenium, Web Scraping, Data Automation
+
+### [Sephora Price Tracking Tool]([[https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel](https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)](https://github.com/rodney-sibanda/Sephora-Price-Tracking-Tool/tree/main))
+
+**Description:**
+A Python-based web scraper that tracks the daily price of a specific Sephora product and logs the data into a CSV file. This tool allows users to monitor price changes over time, making it useful for price trend analysis and potential savings on beauty products.
+
+**Features:**
+
+- **Automated Web Scraping:** Retrieves product details (name and price) daily from Sephora's website.
+
+- **Data Logging:** Stores product name, price, and date in a CSV file for historical tracking.
+
+- **Continuous Monitoring:** Runs in an automated loop, updating price data every 24 hours.
+
+- **Optional Email Alerts:** Designed for potential future enhancements, such as sending email notifications when price changes occur.
+
+**Skills Used:** Python, BeautifulSoup, Web Scraping, Data Automation, Data Logging
