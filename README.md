@@ -55,25 +55,7 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 - Real-time tracking of inventory trends and metrics.
 
--bImproved resource allocation with forecasting tools.
-
-### [Full-Time Equivalent (FTE) Dashboard for Resource Management](https://github.com/rodney-sibanda/FTE_Dashbaord)
-
-<img width="1680" alt="Screenshot 2023-08-31 at 6 14 25 PM" src="https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/0b826742-f349-4642-984c-80aa24bfe631">
-
-
-**Description:** Automated ATB’s monthly reporting with a 6-page dashboard for resource management.
-
-**Skills Used:** Data Automation, Data Visualization, Dashboard Design, Business Analysis, Stakeholder Communication
-
-**Tools:** Google Docs, Google Sheets, Google Looker Studio
-
-**Highlights:**
-
-- Eliminated manual data entry with automation.
-
-- Enabled data-driven decision-making for executives.
-
+-Improved resource allocation with forecasting tools.
 
 ### [Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
