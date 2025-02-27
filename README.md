@@ -26,7 +26,7 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 - Delivered actionable insights for consumer decision-making
 
-### [Forest Fire Dynamics in Alberta](https://github.com/rodney-sibanda/Wildfire-Dynamics-Alberta)
+### [Forest Fire Dynamics in Alberta](https://github.com/rodney-sibanda/wildfires-in-Alberta)
 
 **Description:** Analyzed wildfire dynamics in Alberta (2006–2023) to uncover patterns and insights related to fuel types, weather conditions, fire causes, and frequency. Generated visualizations to aid emergency responses and mitigation strategies.  
 
