@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This repository showcases a collection of projects that reflect my experience across data analysis, business intelligence, data engineering, automation, and applied data science.
 
-Each project focuses on solving real-world problems using data—ranging from exploratory analysis and dashboards to automated pipelines and natural language processing applications.
+Each project focuses on solving real-world problems using data ranging from exploratory analysis and dashboards to automated pipelines and natural language processing applications.
 
 ## Portfolio Sections
 - [Data Analysis & Statistical Modeling](#data-analysis--statistical-modeling)
