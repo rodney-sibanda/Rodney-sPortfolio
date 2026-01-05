@@ -2,12 +2,12 @@ Welcome to my portfolio! This repository showcases a collection of projects that
 
 Each project focuses on solving real-world problems using data—ranging from exploratory analysis and dashboards to automated pipelines and natural language processing applications.
 
-## 📌 Portfolio Sections
+## Portfolio Sections
 - [Data Analysis & Statistical Modeling](#data-analysis--statistical-modeling)
 - [Business Intelligence & Dashboards](#business-intelligence--dashboards)
 - [Data Engineering & Automation](#data-engineering--automation)
 - [Applied Data Science & NLP](#applied-data-science--natural-language-processing)
-- 
+  
 ## Data Analysis & Statistical Modeling
 
 ### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
@@ -64,7 +64,7 @@ Each project focuses on solving real-world problems using data—ranging from ex
 
 - Real-time tracking of inventory trends and metrics.
 
--Improved resource allocation with forecasting tools.
+- Improved resource allocation with forecasting tools.
 
 ### [Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
@@ -103,7 +103,7 @@ Each project focuses on solving real-world problems using data—ranging from ex
 
 - Stores product name, price, and date in a CSV file for historical tracking.
 
--  Runs in an automated loop, updating price data every 24 hours.
+- Runs in an automated loop, updating price data every 24 hours.
 
 - Designed for potential future enhancements, such as sending email notifications when price changes occur.
 
@@ -121,5 +121,5 @@ Each project focuses on solving real-world problems using data—ranging from ex
 
 - Generated readable summaries that preserve core context
 
-[⬆ Back to top](#-data-analytics--data-science-portfolio)
+[⬆ Back to top](#-portfolio-sections)
 
