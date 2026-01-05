@@ -1,11 +1,17 @@
+Welcome to my portfolio! This repository showcases a collection of projects that reflect my experience across data analysis, business intelligence, data engineering, automation, and applied data science.
 
-Welcome to my portfolio! Below, you will find my work divided into two sections: **Reports**, **Dashboards**, and **Webscraping Tools**.
+Each project focuses on solving real-world problems using data—ranging from exploratory analysis and dashboards to automated pipelines and natural language processing applications.
 
-
-## Reports
+## 📌 Portfolio Sections
+- [Data Analysis & Statistical Modeling](#data-analysis--statistical-modeling)
+- [Business Intelligence & Dashboards](#business-intelligence--dashboards)
+- [Data Engineering & Automation](#data-engineering--automation)
+- [Applied Data Science & NLP](#applied-data-science--natural-language-processing)
+- 
+## Data Analysis & Statistical Modeling
 
 ### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
-**Description:** Analyzed climate change, wildfire activity, air quality, and public health in Alberta using SQL and Python. Created visualizations to demonstrate how weather and air pollutants impact wildfire severity and health outcomes.
+**Description:** Analyzed the relationships between climate change, wildfire activity, air quality, and public health outcomes in Alberta using SQL and Python. Integrated multiple datasets to uncover how environmental conditions influence wildfire severity and health impacts.
 
 **Skills Used:** Python, SQL, Data Integration, Data Visualization
 
@@ -15,10 +21,12 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 - Applied SQL queries to extract insights and merge wildfire, weather, and pollutant data.
 
-### [Car Fuel Efficiency Analysis](https://github.com/rodney-sibanda/Car-Fuel-Efficiency-Analysis/tree/main)
-**Description:** Examined relationships between vehicle attributes and fuel efficiency (MPG) using a multi-linear regression model. Provided insights into how vehicle features like engine size and drivetrain type influence performance and sustainability.
+- Generated visual insights to support public health and environmental analysis
 
-**Skills Used:**  R, Regression Analysis, ggplot2 Dataset
+### [Car Fuel Efficiency Analysis](https://github.com/rodney-sibanda/Car-Fuel-Efficiency-Analysis/tree/main)
+**Description:** Used multi-linear regression to analyze how vehicle characteristics impact fuel efficiency (MPG), providing insights into performance, sustainability, and consumer decision-making
+
+**Skills Used:**  R, Regression Analysis
 
 **Highlights:**
 
@@ -33,13 +41,14 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 **Skills Used:** Python Programming, Data Visualization, Statistical Analysis  
 
 **Highlights:**
+
 - Addressed missing values through imputation and column merging.
 
 - Explored the relationship between temperature, humidity, and fire size using regression and visualizations.
 
 - Answered guiding questions related to fire behaviour, frequency, and causes.
 
-## Dashboards
+## Business Intelligence & Dashboards
 
 ### [Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
@@ -67,36 +76,50 @@ Welcome to my portfolio! Below, you will find my work divided into two sections:
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
-## Webscraping Tools
+## Data Engineering & Automation
 
 ### [Indeed Webscraping Tool](https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)
 
 
 **Description:** Developed a Selenium-based web scraper for the GNWT Bureau of Statistics to collect real-time job market data from Indeed. This tool provides a more accurate snapshot of employment trends in the Northwest Territories, replacing outdated estimates from Statistics Canada.
 
+**Skills Used:** Python, Selenium, Web Scraping, Data Automation
+
 **Features:**
 
-- **Location-Specific Scraping:** Retrieves job postings for the Northwest Territories.
-- **Dynamic Filters:** Filters jobs by date and sorts listings by the most recent updates.
-- **Comprehensive Data Extraction:** Captures job title, company name, location, salary, employment type, and date posted.
-- **Data Logging:** Saves extracted job data into an Excel file for further analysis.
-- **Automated Pagination:** Scrapes multiple pages efficiently.
+- Location-specific scraping for the Northwest Territories
 
-**Skills Used:** Python, Selenium, Web Scraping, Data Automation
+- Automated pagination and filtering
+
+- Structured data output for downstream analysis 
 
 ### [Sephora Price Tracking Tool](https://github.com/rodney-sibanda/Sephora-Price-Tracking-Tool/tree/main)
 
-**Description:**
-A Python-based web scraper that tracks the daily price of a specific Sephora product and logs the data into a CSV file. This tool allows users to monitor price changes over time, making it useful for price trend analysis and potential savings on beauty products.
+**Description:** A Python-based web scraper that tracks the daily price of a specific Sephora product and logs the data into a CSV file. This tool allows users to monitor price changes over time, making it useful for price trend analysis and potential savings on beauty products.
+
+**Skills Used:** Python, BeautifulSoup, Web Scraping, Data Automation, Data Logging
 
 **Features:**
 
-- **Automated Web Scraping:** Retrieves product details (name and price) daily from Sephora's website.
+- Stores product name, price, and date in a CSV file for historical tracking.
 
-- **Data Logging:** Stores product name, price, and date in a CSV file for historical tracking.
+-  Runs in an automated loop, updating price data every 24 hours.
 
-- **Continuous Monitoring:** Runs in an automated loop, updating price data every 24 hours.
+- Designed for potential future enhancements, such as sending email notifications when price changes occur.
 
-- **Optional Email Alerts:** Designed for potential future enhancements, such as sending email notifications when price changes occur.
+## Applied Data Science & Natural Language Processing
 
-**Skills Used:** Python, BeautifulSoup, Web Scraping, Data Automation, Data Logging
+**Descripion:** Built a natural language processing (NLP) tool that generates concise summaries of news articles. In today’s fast-paced world, many people want to stay informed but don’t always have time to read full articles—this project aims to make news consumption faster and more accessible.
+
+**Skills Used:** Python, Natural Language Processing, Text Preprocessing, Feature Extraction
+
+**Highlights:**
+
+- Cleaned and processed unstructured text data
+
+- Applied NLP techniques to extract key information
+
+- Generated readable summaries that preserve core context
+
+[⬆ Back to top](#-data-analytics--data-science-portfolio)
+
