@@ -121,5 +121,5 @@ Each project focuses on solving real-world problems using data—ranging from ex
 
 - Generated readable summaries that preserve core context
 
-[⬆ Back to top](#-portfolio-sections)
+[⬆ Back to top](#portfolio-sections)
 
