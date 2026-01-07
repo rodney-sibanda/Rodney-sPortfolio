@@ -111,6 +111,8 @@ Each project focuses on solving real-world problems using data ranging from expl
 
 ## Applied Data Science & Natural Language Processing
 
+### [News Summarizer](https://github.com/rodney-sibanda/News-Summarizer/tree/main)
+
 **Descripion:** Built a natural language processing (NLP) tool that generates concise summaries of news articles. In today’s fast-paced world, many people want to stay informed but don’t always have time to read full articles—this project aims to make news consumption faster and more accessible.
 
 **Skills Used:** Python, Natural Language Processing, Text Preprocessing, Feature Extraction
