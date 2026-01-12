@@ -15,26 +15,6 @@ Each project focuses on solving real-world problems using data ranging from expl
 ### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
 **Description:** Analyzed the relationships between climate change, wildfire activity, air quality, and public health outcomes in Alberta using SQL and Python. Integrated multiple datasets to uncover how environmental conditions influence wildfire severity and health impacts.
 
-**Skills Used:** Python, SQL, Data Integration, Data Visualization
-
-**Highlights:**
-
-- Combined and cleaned datasets to create a comprehensive view of environmental and health factors.
-
-- Applied SQL queries to extract insights and merge wildfire, weather, and pollutant data.
-
-- Generated visual insights to support public health and environmental analysis
-
-### [Car Fuel Efficiency Analysis](https://github.com/rodney-sibanda/Car-Fuel-Efficiency-Analysis/tree/main)
-**Description:** Used multi-linear regression to analyze how vehicle characteristics impact fuel efficiency (MPG), providing insights into performance, sustainability, and consumer decision-making
-
-**Skills Used:**  R, Regression Analysis
-
-**Highlights:**
-
-- Built predictive models to analyze trade-offs between vehicle performance and fuel efficiency.
-
-- Delivered actionable insights for consumer decision-making
 
 ### [Forest Fire Dynamics in Alberta](https://github.com/rodney-sibanda/wildfires-in-Alberta)
 
