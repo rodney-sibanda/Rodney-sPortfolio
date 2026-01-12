@@ -15,21 +15,6 @@ Each project focuses on solving real-world problems using data ranging from expl
 ### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
 **Description:** Analyzed the relationships between climate change, wildfire activity, air quality, and public health outcomes in Alberta using SQL and Python. Integrated multiple datasets to uncover how environmental conditions influence wildfire severity and health impacts.
 
-
-### [Forest Fire Dynamics in Alberta](https://github.com/rodney-sibanda/wildfires-in-Alberta)
-
-**Description:** Analyzed wildfire dynamics in Alberta (2006–2023) to uncover patterns and insights related to fuel types, weather conditions, fire causes, and frequency. Generated visualizations to aid emergency responses and mitigation strategies.  
-
-**Skills Used:** Python Programming, Data Visualization, Statistical Analysis  
-
-**Highlights:**
-
-- Addressed missing values through imputation and column merging.
-
-- Explored the relationship between temperature, humidity, and fire size using regression and visualizations.
-
-- Answered guiding questions related to fire behaviour, frequency, and causes.
-
 ## Business Intelligence & Dashboards
 
 ### [Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
@@ -51,10 +36,6 @@ Each project focuses on solving real-world problems using data ranging from expl
 ### [Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
 **Description:** Analyzed sales trends, top-selling products, and retailers for Adidas using Excel. 
-
-**Skills used:** Pivot Tables, Financial analysis
-
-**Tools:** Excel Spreadsheet and Dashboard 
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
