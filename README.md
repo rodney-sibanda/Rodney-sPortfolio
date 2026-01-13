@@ -1,4 +1,4 @@
-# Rodney's Portfolio 
+# Rodney's Data Analytics & Data Science Portfolio 
 
 Welcome to my portfolio! This repository showcases a collection of projects that reflect my experience across data analysis, business intelligence, data engineering, automation, and applied data science.
 
@@ -14,6 +14,14 @@ Each project focuses on solving real-world problems using data ranging from expl
 
 ### [Wildfires, Weather, and Wellbeing: Factors Influencing Air Quality](https://github.com/rodney-sibanda/Wildfires-Weather-and-Wellbeing)
 **Description:** Analyzed the relationships between climate change, wildfire activity, air quality, and public health outcomes in Alberta using SQL and Python. Integrated multiple datasets to uncover how environmental conditions influence wildfire severity and health impacts.
+
+**Skills Used:** Python, SQL, Data Integration, Data Cleaning, Data Visualization
+
+### [Car Fuel Efficiency Analysis](https://github.com/rodney-sibanda/Car-Fuel-Efficiency-Analysis/tree/main)
+**Description:**
+Used multi-linear regression to analyze how vehicle characteristics impact fuel efficiency (MPG), providing insights into performance, sustainability, and consumer decision-making.
+
+Skills Used: R, Regression Analysis, Statistical Modeling
 
 ## Business Intelligence & Dashboards
 
