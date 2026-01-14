@@ -34,6 +34,7 @@ Skills Used: R, Regression Analysis, Statistical Modeling
 Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
 
 
+
 ### [Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
 ![portfolio pic ](https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/9218029b-7ff5-4f74-8294-95346b8a616a)
@@ -49,6 +50,7 @@ Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
 - Real-time tracking of inventory trends and metrics.
 
 - Improved resource allocation with forecasting tools.
+
 
 ### [Adidas 2020 - 2021 Sales Report Dashboard](https://github.com/rodney-sibanda/Adidas-Sale-Report-2020---2021---DB---Excel)
 
