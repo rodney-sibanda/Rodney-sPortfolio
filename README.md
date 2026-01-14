@@ -25,6 +25,15 @@ Skills Used: R, Regression Analysis, Statistical Modeling
 
 ## Business Intelligence & Dashboards
 
+### [Databricks Canadian Electricity Pipeline] (https://github.com/rodney-sibanda/Databricks-Canadian-Electricity-Pipeline)
+
+<img width="2846" height="1096" alt="image" src="https://github.com/user-attachments/assets/c6fee725-b3b7-4b7f-b5ae-b4cf6a17553c" />
+
+**Description:** Built a Databricks Lakehouse pipeline to analyze Canada’s electricity system, integrating multiple datasets on generation, demand, installed capacity, emissions, and carbon intensity. The project uses Bronze, Silver, and Gold tables to transform raw data into business-ready insights, which power an executive dashboard showcasing trends in electricity production, demand, and environmental impact.
+
+Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
+
+
 ### [Enhanced Inventory Management Dashboard for the Calgary Drop-In Centre](https://github.com/rodney-sibanda/Calgary-Drop-In-Centre-Dashboard/blob/main/README.md)
 
 ![portfolio pic ](https://github.com/rodney-sibanda/Rodney-sPortfolio/assets/126027138/9218029b-7ff5-4f74-8294-95346b8a616a)
