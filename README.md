@@ -25,7 +25,7 @@ Skills Used: R, Regression Analysis, Statistical Modeling
 
 ## Business Intelligence & Dashboards
 
-### [Databricks Canadian Electricity Pipeline] (https://github.com/rodney-sibanda/Databricks-Canadian-Electricity-Pipeline)
+### [Databricks Canadian Electricity Pipeline](https://github.com/rodney-sibanda/Databricks-Canadian-Electricity-Pipeline)
 
 <img width="2846" height="1096" alt="image" src="https://github.com/user-attachments/assets/c6fee725-b3b7-4b7f-b5ae-b4cf6a17553c" />
 
