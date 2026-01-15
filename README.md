@@ -105,5 +105,22 @@ Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
 
 - Generated readable summaries that preserve core context
 
+
+## [Credit Card Fraud Detection ML Model](https://github.com/rodney-sibanda/Credit-Card-Fraud-Detection-Model)
+
+**Description:** Developed and evaluated machine learning models to detect fraudulent credit card transactions using real-world e-commerce data from the IEEE-CIS Fraud Detection dataset. The project explores both supervised and unsupervised learning approaches to address challenges such as high dimensionality, class imbalance, and computational constraints, with the goal of accurately identifying fraudulent activity while minimizing false positives
+
+**Skills Used:** Python, Machine Learning, Feature Engineering, Model Evaluation, Imbalanced Classification
+
+**Highlights:**
+- Applied Random Forest, XGBoost, and Isolation Forest models across multiple feature-reduced datasets
+
+- Performed correlation-based feature selection, PCA, and time-based preprocessing to manage dataset size and complexity
+
+- Identified XGBoost trained on the full feature set as the best-performing model, achieving high accuracy and strong AUC-ROC performance
+
+- Evaluated precision–recall trade-offs for fraud detection and documented limitations and future improvement strategies
+
+
 [⬆ Back to top](#portfolio-sections)
 
