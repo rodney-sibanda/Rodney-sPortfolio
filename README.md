@@ -7,7 +7,7 @@ Each project focuses on solving real-world problems using data ranging from expl
 ## Portfolio Sections
 - [Data Analysis & Statistical Modeling](#data-analysis--statistical-modeling)
 - [Business Intelligence & Dashboards](#business-intelligence--dashboards)
-- [Data Engineering & Automation](#automation)
+- [Automation](#automation)
 - [Applied Data Science & NLP](#applied-data-science--natural-language-processing)
   
 ## Data Analysis & Statistical Modeling
