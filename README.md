@@ -7,7 +7,7 @@ Each project focuses on solving real-world problems using data ranging from expl
 ## Portfolio Sections
 - [Data Analysis & Statistical Modeling](#data-analysis--statistical-modeling)
 - [Business Intelligence & Dashboards](#business-intelligence--dashboards)
-- [Data Engineering & Automation](#data-engineering--automation)
+- [Data Engineering & Automation](#automation)
 - [Applied Data Science & NLP](#applied-data-science--natural-language-processing)
   
 ## Data Analysis & Statistical Modeling
@@ -58,7 +58,7 @@ Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
 
 ![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468950-905a88c9-b4bf-4e62-b1c7-736f7a20250f.gif)
 
-## Data Engineering & Automation
+## Automation
 
 ### [Indeed Webscraping Tool](https://github.com/rodney-sibanda/Indeed-Job-Webscraping-Tool/tree/main)
 
@@ -93,7 +93,7 @@ Skills Used: SQL, Python, Data Engineering, Data Cleaning, Data Visualization
 
 ### [News Summarizer](https://github.com/rodney-sibanda/News-Summarizer/tree/main)
 
-**Descripion:** Built a natural language processing (NLP) tool that generates concise summaries of news articles. In today’s fast-paced world, many people want to stay informed but don’t always have time to read full articles—this project aims to make news consumption faster and more accessible.
+**Descripion:** Built a natural language processing (NLP) tool that generates concise summaries of news articles. In today’s fast-paced world, many people want to stay informed but don’t always have time to read full articles, this project aims to make news consumption faster and more accessible.
 
 **Skills Used:** Python, Natural Language Processing, Text Preprocessing, Feature Extraction
 
