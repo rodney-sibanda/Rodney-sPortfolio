@@ -27,7 +27,7 @@ Skills Used: R, Regression Analysis, Statistical Modeling
 
 ### [Databricks Canadian Electricity Pipeline](https://github.com/rodney-sibanda/Databricks-Canadian-Electricity-Pipeline)
 
-<img width="2846" height="1096" alt="image" src="https://github.com/user-attachments/assets/c6fee725-b3b7-4b7f-b5ae-b4cf6a17553c" />
+<img width="1440" height="492" alt="Screen Shot 2026-01-19 at 4 49 43 PM" src="https://github.com/user-attachments/assets/4407d26c-ce80-4629-aca1-e8710ac50e3e" />
 
 **Description:** Built a Databricks Lakehouse pipeline to analyze Canada’s electricity system, integrating multiple datasets on generation, demand, installed capacity, emissions, and carbon intensity. The project uses Bronze, Silver, and Gold tables to transform raw data into business-ready insights, which power an executive dashboard showcasing trends in electricity production, demand, and environmental impact.
 
